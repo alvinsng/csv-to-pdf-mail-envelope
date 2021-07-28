@@ -1,5 +1,5 @@
 # CSV to PDF Mailing Envelope Converter
-This program is converts a input CSV file of mailing addresses and generates a single PDF file with one page per address.
+This program converts a input CSV file of mailing addresses and generates a single PDF file with one page per address.
 
 ## Example CSV input
 ```csv
