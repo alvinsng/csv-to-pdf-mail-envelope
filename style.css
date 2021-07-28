@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Rouge+Script&display=swap');
+
+body {
+  font-size: 14pt;
+  font-family: 'Cinzel', serif;
+  margin: 8px 18px;
+}
+.name {
+  font-size: 30pt;
+  font-family: 'Rouge Script', cursive;
+}
+.new-page {
+  page-break-after: always;
+}
+.new-page:last-child {
+  page-break-after: auto;
+}
+.address {
+  margin-top: 120px;
+  text-align: center;
+}

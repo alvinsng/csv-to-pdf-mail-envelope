@@ -1,0 +1,15 @@
+{
+  "name": "csv_to_pdf",
+  "version": "1.0.0",
+  "description": "CSV to PDF for generating envelope prints for mailing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node ./index.js"
+  },
+  "author": "Alvin Sng (https://alvinsng.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0"
+  }
+}
